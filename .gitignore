@@ -35,3 +35,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+GPP Crowds/Assets/Scenes/
+GPP Crowds/Assets/SkySerie Freebie/
+GPP Crowds/Assets/Standard Assets/
+Scenes.meta
+SkySerie Freebie.meta
+Standard Assets.meta
